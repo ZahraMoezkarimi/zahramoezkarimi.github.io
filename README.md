@@ -19,7 +19,7 @@
 
 
 ## About
-I am postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden.
+I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden.
 
 
 
