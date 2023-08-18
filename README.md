@@ -77,7 +77,7 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 
 
-## Others
+## Other activities
 
 Astronomy
 
