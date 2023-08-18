@@ -83,7 +83,6 @@ Astronomy
 
 Biking
 
-Chess (recently)
 
 
 ## Contact Info
