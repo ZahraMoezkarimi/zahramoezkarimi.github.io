@@ -69,7 +69,7 @@ I am postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden
 
 
 
-## Publications 
+## Recent Publications 
 
 [CRYSTAL Framework: Cybersecurity Assurance for Cyber-Physical Systems](http://rebeca-lang.org/assets/papers/2023/CRYSTAL-Framework-Technical-Report.pdf)
 
