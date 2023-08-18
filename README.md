@@ -18,7 +18,7 @@
 
 
 
-## About
+## Zahra Moezkarimi
 I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden.
 
 
@@ -62,19 +62,11 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 2023 Aug. &nbsp; &nbsp; **Marktoberdorf Summer School**, Bavaria, Germany (Participant)
 
-
-
-
-
-
-
-
 ## Recent Publications 
 
 [CRYSTAL Framework: Cybersecurity Assurance for Cyber-Physical Systems](http://rebeca-lang.org/assets/papers/2023/CRYSTAL-Framework-Technical-Report.pdf)
 
 [A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
-
 
 
 ## Other activities
@@ -86,9 +78,8 @@ Biking
 
 
 ## Contact Info
-Zahra Moezkarimi
 
-Email: zahra.moezkarimi@mdu.se
+zahra.moezkarimi@mdu.se
 
 Mälardalen Universitt, U1-092
 
