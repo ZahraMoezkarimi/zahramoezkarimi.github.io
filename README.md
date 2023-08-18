@@ -40,7 +40,7 @@ I am postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden
 <br /> 
 <br /> 
 <h3>Epistemic Logic</h3> 
-<b>Definition</b>: The logic for reasoning about knowledge and belief of agents.<br />  
+<b>Definition</b>: A logic for reasoning about knowledge and belief of agents.<br />  
 
 <b>My research interest</b>: Epistemic and aleatoric uncertainty.
 <br /> 
