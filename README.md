@@ -58,9 +58,10 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 ## Activities
 
-2023 Aug. &nbsp; &nbsp; **Workshop on Human-Centric Cybersecurity**, MDU, Sweden (Member of the organizing committee)
+2023 Aug. &nbsp; &nbsp; **[Workshop on Human-Centric Cybersecurity](https://hcc2023-mdu.github.io)**, MDU, Sweden (Member of the organizing committee)
 
-2023 Aug. &nbsp; &nbsp; **Marktoberdorf Summer School**, Bavaria, Germany (Participant)
+2023 Aug. &nbsp; &nbsp; **[Marktoberdorf International Summer School on Safety and Security through Formal Verification](https://events.model.in.tum.de/mod23/lectures.html)**, Bavaria, Germany (Participant)
+
 
 ## Events I have recently attended (not necessarily as an official member)
  
