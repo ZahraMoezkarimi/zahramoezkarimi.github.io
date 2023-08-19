@@ -62,6 +62,14 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 2023 Aug. &nbsp; &nbsp; **Marktoberdorf Summer School**, Bavaria, Germany (Participant)
 
+## Events I have recently attended (not necessarily as an official member)
+ 
+[SACSys: Safe and Secure Adaptive Collaborative Systems](https://sacsys.github.io/main/)
+
+[DPAC: Dependable Platforms for Autonomous systems and Control](https://www.mdu.se/en/malardalen-university/research/research-projects/dpac---dependable-platforms-for-autonomous-systems-and-control)
+
+
+
 ## Recent Publications 
 
 [CRYSTAL Framework: Cybersecurity Assurance for Cyber-Physical Systems](http://rebeca-lang.org/assets/papers/2023/CRYSTAL-Framework-Technical-Report.pdf)
