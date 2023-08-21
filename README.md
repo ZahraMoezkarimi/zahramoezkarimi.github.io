@@ -8,7 +8,7 @@
 <img src="./MDU.jpg" align="left" height="400" width="1024" >
 -->
 
-<img src="./Zahra.jpg" align="left" >
+<img src="./Zahra.jpg" align="right"  width="20%" height="20%" >
 
 <!-- <a href="url"><img src="./IMG_0898.jpg" align="left" height="48" width="48" opacity="0.5";></a> -->
 
@@ -19,6 +19,7 @@
 I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Sweden.
 
 
+<br><br><br>
 
 ## Research Interests
 
