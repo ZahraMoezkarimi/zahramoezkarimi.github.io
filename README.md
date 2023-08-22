@@ -88,5 +88,5 @@ Biking
 
 zahra.moezkarimi@mdu.se
 
-Mälardalen Universitt, U1-092
+Mälardalen University, U1-092
 
