@@ -34,7 +34,7 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
 
-<b>My research interest</b>: Policy-aware systems, Secure-by-construction systems, Automated reasoning
+<b>My research interest</b>: Policy-aware systems; Secure-by-construction systems. <!-- , Automated reasoning  -->
 <br /> 
 <br /> 
 <h3>Epistemic Logic</h3> 
