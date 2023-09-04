@@ -54,7 +54,7 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 
 
-## Activities (past and future!)
+## Events (past and future!)
 
 2023 Nov. &nbsp; &nbsp; **[34th Nordic Workshop on Programming Theory, NWPT 2023](https://conf.researchr.org/home/nwpt-2023)**, MDU, Sweden (PC member)
 
@@ -63,7 +63,7 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 2023 Aug. &nbsp; &nbsp; **[Marktoberdorf International Summer School on Safety and Security through Formal Verification](https://events.model.in.tum.de/mod23/lectures.html)**, Bavaria, Germany (Participant)
 
 
-## Events I have recently attended (not necessarily as an official member)
+## Events related to projects I have recently attended (not necessarily as an official member)
  
 [SACSys: Safe and Secure Adaptive Collaborative Systems](https://sacsys.github.io/main/)
 
