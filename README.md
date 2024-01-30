@@ -56,6 +56,8 @@ I am a postdoctoral researcher at Mälardalen University (MDU), Västerås, Swed
 
 ## Events (past and future!)
 
+2025 Apr. &nbsp; &nbsp; **[34th FSEN 2025]()**, MDU, Sweden (PC member)
+
 2023 Nov. &nbsp; &nbsp; **[34th Nordic Workshop on Programming Theory, NWPT 2023](https://conf.researchr.org/home/nwpt-2023)**, MDU, Sweden (PC member)
 
 2023 Aug. &nbsp; &nbsp; **[Workshop on Human-Centric Cybersecurity](https://hcc2023-mdu.github.io)**, MDU, Sweden (Member of the organizing committee)
