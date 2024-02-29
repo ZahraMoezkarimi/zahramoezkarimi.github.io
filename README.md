@@ -28,7 +28,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <h3>Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 
-<b>My research interest</b> Digital Twins
+<b>My research interest</b> Digital Twins, Consistency in Distributed Systems 
 <br /> 
 <br /> 
 <h3>Privacy Policies</h3>
@@ -36,7 +36,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
 
-<b>My research interest</b>: Policy-aware systems; Secure-by-construction systems. <!-- , Automated reasoning  -->
+<b>My research interest</b>: Policy-aware systems <!-- , Automated reasoning, Secure-by-construction systems. -->
 <br /> 
 <br /> 
 <h3>Epistemic Logic</h3> 
