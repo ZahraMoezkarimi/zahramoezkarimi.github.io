@@ -77,6 +77,8 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Recent Publications 
 
+[Formal Verification of Consistency for Systems with Redundant Controllers (accepted, MARS 2024 @ETAPS2024)]()
+
 [Enhancing CRYSTAL: Preventive Recovery in Brief (Pre-print)](https://mdu.drive.sunet.se/index.php/s/dfCx3dmRDFGZBKW)
 
 [Efficient Analysis of Belief Properties in Process Algebra (Submitted)](https://deliverypdf.ssrn.com/delivery.php?ID=045009089115009004125105119087124088001043069002065054095024124050006041031092080096075124020066045079002086035022067064085081047108023104080091094024004006027054102108121100010055074088120001046032098064089041120127025069015097007024031091115071018074076090075028116021107027065065091088&EXT=pdf&INDEX=TRUE)
