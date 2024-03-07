@@ -77,7 +77,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Recent Publications 
 
-[Formal Verification of Consistency for Systems with Redundant Controllers (accepted, MARS 2024 @ETAPS2024)]()
+[Formal Verification of Consistency for Systems with Redundant Controllers (MARS2024 @ETAPS2024)]()
 
 [Enhancing CRYSTAL: Preventive Recovery in Brief (Pre-print)](https://mdu.drive.sunet.se/index.php/s/dfCx3dmRDFGZBKW)
 
