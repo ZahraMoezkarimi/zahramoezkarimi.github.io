@@ -79,7 +79,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 [Guess and then Check: Controller Synthesis for Safe and Secure Cyber-Physical Systems (FORTE 2024)]()
 
-[Formal Verification of Consistency for Systems with Redundant Controllers (MARS2024 @ETAPS2024)]()
+[Formal Verification of Consistency for Systems with Redundant Controllers (MARS2024 @ETAPS2024)](https://arxiv.org/abs/2403.18917v1)
 
 [Enhancing CRYSTAL: Preventive Recovery in Brief (NWPT2023 - Pre-print)](https://mdu.drive.sunet.se/index.php/s/dfCx3dmRDFGZBKW)
 
