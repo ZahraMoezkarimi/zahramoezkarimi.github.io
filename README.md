@@ -80,6 +80,10 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Recent Publications 
 
+
+
+[Systematic Test Case Generation for Distributed Redundant Controllers using Model Checking (EXTENDED ABSTRACT) (FM24 - Industry Day)]
+
 [Guess and then Check: Controller Synthesis for Safe and Secure Cyber-Physical Systems (FORTE 2024)](https://link.springer.com/chapter/10.1007/978-3-031-62645-6_13)(<a class="link link_pdf" href="/Papers/2024/GuessandThenCheck.pdf">PDF</a>)
 
 [Formal Verification of Consistency for Systems with Redundant Controllers (MARS2024 @ETAPS2024)](https://arxiv.org/abs/2403.18917v1)
