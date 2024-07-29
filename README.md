@@ -94,7 +94,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 [CRYSTAL Framework: Cybersecurity Assurance for Cyber-Physical Systems, 2024 (JLAMP)](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.jlamp.2024.100965&data=05%7C02%7Czahra.moezkarimi%40mdu.se%7Cf45434682f1543b7587f08dc54d77731%7Ca1795b64dabd4758b988b309292316cf%7C0%7C0%7C638478531593437179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=I2ovBJJmR5nXob5Fh%2FIrDRpQ%2FS%2FBip006Ns7lwbEIB4%3D&reserved=0)
 
-[A policy-aware epistemic framework for social networks. 2022 (Journal of Logic and Computation)](https://academic.oup.com/logcom/article/32/6/1234/6564903)
+[A policy-aware epistemic framework for social networks, 2022 (Journal of Logic and Computation)](https://academic.oup.com/logcom/article/32/6/1234/6564903)
 
 
 ## Other activities
