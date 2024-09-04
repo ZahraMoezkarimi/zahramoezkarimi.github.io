@@ -18,7 +18,7 @@
 ## Zahra Moezkarimi
 I am a postdoctoral researcher at Mälardalen University (MDU) in Västerås, Sweden. I work on modeling, formal verification, and synthesis of Cyber-Physical Systems, with an interest in data-driven approaches.
 
-Currently, my research focuses on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra.
+Currently, my research focuses on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to include NeurosymbolicAI approaches, aiming to mitigate the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems (ACPS).
 
 <!--
 I am currently working on modeling and formal verification of Cyber-Physical Systems (CPS), with a particular focus on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I am utilizing the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra.
@@ -31,7 +31,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <h3>Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 
-<b>My research interest</b> Digital Twins, Consistency in Distributed Systems 
+<b>My research interest</b> Digital Twins, Consistency in Distributed Systems, NeurosymbolicAI, Autonomous Cyber-Physical Systems
 <br /> 
 <br /> 
 <h3>Privacy Policies</h3>
