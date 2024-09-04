@@ -39,12 +39,12 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
 
-<b>My research interest</b>: Policy-aware systems <!-- , Automated reasoning, Secure-by-construction systems. -->
+<b>My research interest</b>: Privacy-aware systems <!-- , Automated reasoning, Secure-by-construction systems. -->
 <br /> 
 <br /> 
 <h3>Epistemic Logic</h3> 
 <b>Definition</b>: A logic for reasoning about agents' knowledge and beliefs.<br />  
-
+<br /> 
 <b>My research interest</b>: Epistemic and aleatoric uncertainty.
 <br /> 
 <br /> 
