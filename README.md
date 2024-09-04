@@ -30,7 +30,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 <h3>Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
-
+<br /> 
 <b>My research interest</b> NeurosymbolicAI, Neurosymbolic Digital Twins, Autonomous Cyber-Physical Systems, Consistency in Distributed Systems
 <br /> 
 <br /> 
