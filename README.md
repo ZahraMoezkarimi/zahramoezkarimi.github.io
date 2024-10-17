@@ -63,6 +63,8 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 2025 Apr. &nbsp; &nbsp; **[FSEN 2025]()**, MDU, Sweden (Member of the organizing committee)
 
+2024 Oct. &nbsp; &nbsp; **[Probability in Computer Science (PICS) 2024](https://etaps.org/about/fopss-schools/2024/)**, IT University of Copenhagen, Denmark (Participant)
+
 2023 Nov. &nbsp; &nbsp; **[34th Nordic Workshop on Programming Theory, NWPT 2023](https://conf.researchr.org/home/nwpt-2023)**, MDU, Sweden (PC member)
 
 2023 Aug. &nbsp; &nbsp; **[Workshop on Human-Centric Cybersecurity](https://hcc2023-mdu.github.io)**, MDU, Sweden (Member of the organizing committee)
