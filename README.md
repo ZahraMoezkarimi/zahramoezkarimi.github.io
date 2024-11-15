@@ -18,9 +18,12 @@
 ## Zahra Moezkarimi
 I am a postdoctoral researcher at Mälardalen University (MDU) in Västerås, Sweden. I work on modeling, formal verification, and synthesis of Cyber-Physical Systems, with an interest in data-driven approaches.
 
-Currently, my research focuses on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to include NeurosymbolicAI approaches, aiming to mitigate the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems (ACPS).
+Currently, my research focuses on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to adress the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems (ACPS).
 
 <!--
+
+I have expanded my research to include NeurosymbolicAI approaches, aiming to mitigate the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems (ACPS).
+
 I am currently working on modeling and formal verification of Cyber-Physical Systems (CPS), with a particular focus on redundant distributed controllers and controller synthesis. My main tool for this work is Rebeca (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I am utilizing the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra.
 -->
 
@@ -31,7 +34,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <h3>Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 <br /> 
-<b>My research interest</b> NeurosymbolicAI, Neurosymbolic Digital Twins, Autonomous Cyber-Physical Systems, Consistency in Distributed Systems
+<b>My research interest</b> AI-enabled Autonomous Cyber-Physical Systems, NeurosymbolicAI, Neurosymbolic Digital Twins, Consistency in Distributed Systems
 <br /> 
 <br /> 
 <h3>Privacy Policies</h3>
@@ -61,7 +64,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Events (past and future!)
 
-2025 Apr. &nbsp; &nbsp; **[FSEN 2025]()**, MDU, Sweden (Member of the organizing committee)
+2025 Apr. &nbsp; &nbsp; **[FSEN 2025](https://conf.researchr.org/home/fsen-2025)**, MDU, Sweden (Member of the organizing committee, Poster chair)
 
 2024 Oct. &nbsp; &nbsp; **[Probability in Computer Science (PICS) 2024](https://etaps.org/about/fopss-schools/2024/)**, IT University of Copenhagen, Denmark (Participant)
 
@@ -82,8 +85,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 
 
-## Recent Publications 
-
+## Recent Publications
 
 
 [Systematic Test Case Generation for Distributed Redundant Controllers using Model Checking (EXTENDED ABSTRACT) (FM24 - Industry Day)]()
