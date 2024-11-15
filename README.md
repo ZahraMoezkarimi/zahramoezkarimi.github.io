@@ -18,7 +18,7 @@
 ## Zahra Moezkarimi
 I am a postdoctoral researcher at Mälardalen University (MDU) in Västerås, Sweden. I work on modeling, formal verification, and synthesis of Cyber-Physical Systems, with an interest in data-driven approaches.
 
-My main tool for model checking is [Rebeca](https://rebeca-lang.org) (Reactive Object Language), an actor-based language tailored for the modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to address the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems.
+My main tool for model checking is [Rebeca](https://rebeca-lang.org) (Reactive Object Language), an actor-based language tailored for modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to address the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems.
 
 <!--
 
