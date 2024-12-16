@@ -78,11 +78,12 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 ## Projects 
 
 [ARAS - Assured Reasoning for Autonomous Cyber-Physical Systems](http://www.es.mdu.se/projects/632-ARAS____Assured_Reasoning_for_Autonomous_Cyber_Physical_Systems)
- 
+
+<!--  
 [SACSys: Safe and Secure Adaptive Collaborative Systems](https://sacsys.github.io/main/) (not an official member)
 
 [DPAC: Dependable Platforms for Autonomous systems and Control](https://www.mdu.se/en/malardalen-university/research/research-projects/dpac---dependable-platforms-for-autonomous-systems-and-control) (not an official member)
-
+-->
 
 
 ## Recent Publications
