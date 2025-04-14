@@ -88,6 +88,9 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Recent Publications
 
+[Privacy-Aware Modeling and Analysis of Social Networks Using Rebeca](https://link.springer.com/chapter/10.1007/978-3-031-85134-6_6)(<a class="link link_pdf" href="/Papers/2024/MarjanFestSchrift-PrivacyRebeca.pdf">PDF</a>)
+
+[Harnessing ChatGPT for Model Transformation in Software Architecture: From UML State Diagrams to Rebeca Models for Formal Verification (MDE4SA@ IEEE ICSA-C2025)](https://www.es.mdu.se/publications/7130-Harnessing_ChatGPT_for_Model_Transformation_in_Software_Architecture__From_UML_State_Diagrams_to_Rebeca_Models_for_Formal_Verification)(<a class="link link_pdf" href="/Papers/2024/LLMRebeca.pdf">PDF</a>)
 
 [Systematic Test Case Generation for Distributed Redundant Controllers using Model Checking (EXTENDED ABSTRACT) (FM24 - Industry Day)]()
 
