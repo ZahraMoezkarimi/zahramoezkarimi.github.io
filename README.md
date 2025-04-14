@@ -16,11 +16,16 @@
 
 
 ## Zahra Moezkarimi
-I am a postdoctoral researcher at Mälardalen University (MDU) in Västerås, Sweden. I work on modeling, formal verification, and synthesis of Cyber-Physical Systems, with an interest in data-driven approaches.
+I am a postdoctoral researcher at Mälardalen University (MDU) in Västerås, Sweden. 
+
+Currently, my research lies at the intersection of <strong>formal methods</strong>, <strong>AI safety</strong>, and <strong>cyber-physical systems</strong> (CPS), with a particular focus on developing verifiable and adaptive intelligent agents. I am passionate about building systems that are not only intelligent, but also provably correct, safe, and transparent.
+
+<!--
+
+I work on modeling, formal verification, and synthesis of Cyber-Physical Systems, with an interest in data-driven approaches.
 
 My main tool for model checking is [Rebeca](https://rebeca-lang.org) (Reactive Object Language), an actor-based language tailored for modeling and formal verification of reactive, concurrent, and distributed systems. I use the timed extension of Rebeca, Timed-Rebeca, and Rebeca's user-friendly model checking tool, Afra. Recently, I have expanded my research to address the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems.
 
-<!--
 
 I have expanded my research to include NeurosymbolicAI approaches, aiming to mitigate the unpredictability in the behavior of AI components within AI-enabled Autonomous Cyber-Physical Systems (ACPS).
 
@@ -34,7 +39,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <h3>Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 <br /> 
-<b>My research interest</b> AI-enabled Autonomous Cyber-Physical Systems, NeurosymbolicAI, Neurosymbolic Digital Twins, Consistency in Distributed Systems
+<b>My research interest</b> AI-enabled autonomous CPS, neurosymbolic AI for safe decision-making, consistency in distributed control systems, and the development of <em>neurosymbolic digital twins</em> for runtime assurance.
 <br /> 
 <br /> 
 <h3>Privacy Policies</h3>
@@ -42,13 +47,15 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
 
-<b>My research interest</b>: Privacy-aware systems <!-- , Automated reasoning, Secure-by-construction systems. -->
+<b>My research interest</b>: Modeling and verification of privacy-aware systems, policy-aware reasoning, and formal approaches to ensure secure-by-construction design.
+<!-- , Automated reasoning, Secure-by-construction systems. -->
 <br /> 
 <br /> 
 <h3>Epistemic Logic</h3> 
-<b>Definition</b>: A logic for reasoning about agents' knowledge and beliefs.<br />  
+<b>Definition</b>: Epistemic logic provides formal tools to reason about the knowledge and beliefs of agents. It is widely used in multi-agent systems, security, and AI to capture what agents know, infer, or assume in uncertain environments.
+<br />  
 <br /> 
-<b>My research interest</b>: Epistemic and aleatoric uncertainty.
+<b>My research interest</b>: Formal reasoning under epistemic and aleatoric uncertainty, including applications in planning, safety verification, and behavior prediction in intelligent agents.
 <br /> 
 <br /> 
 
