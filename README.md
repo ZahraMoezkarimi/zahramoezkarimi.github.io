@@ -36,13 +36,14 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Research Interests
 
-<h3>Cyber-Physical Systems (CPS)</h3>
+<h3>AI-enabled Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 <br /> 
 <b>My research interest</b> AI-enabled autonomous CPS, neurosymbolic AI for safe decision-making, consistency in distributed control systems, and the development of <em>neurosymbolic digital twins</em> for runtime assurance.
 <br /> 
 <br /> 
-<h3>Privacy Policies</h3>
+
+<h4>Privacy Policies</h3>
 <b>Definition</b>: The concept of privacy was initially introduced as ‘the right to be left alone’ and is recognized as a fundamental human right by many international norms and regulations. Privacy is further elaborated by Alan Westin as ‘the claim of individuals, groups, or institutions to determine for themselves when, how and to what extent information about them is communicated’; this is currently known as the informational self-determination right and used as a means to limit the abuse of personal data. 
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
@@ -50,8 +51,9 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <b>My research interest</b>: Modeling and verification of privacy-aware systems, policy-aware reasoning, and formal approaches to ensure secure-by-construction design.
 <!-- , Automated reasoning, Secure-by-construction systems. -->
 <br /> 
-<br /> 
-<h3>Epistemic Logic</h3> 
+<br />
+
+<h4>Epistemic Logic</h3> 
 <b>Definition</b>: Epistemic logic provides formal tools to reason about the knowledge and beliefs of agents. It is widely used in multi-agent systems, security, and AI to capture what agents know, infer, or assume in uncertain environments.
 <br />  
 <br /> 
