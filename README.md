@@ -36,7 +36,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 ## Research Interests
 
-<h3>1st: AI-enabled Cyber-Physical Systems (CPS)</h3>
+<h3>AI-enabled Cyber-Physical Systems (CPS)</h3>
 <b>Definition</b>: Cyber-physical systems (CPS) provide an excellent basis for digitizing advanced industrial systems and applications. CPSs integrate physical, computational and communication subsystems, typically including sensors, controllers and actuators. These systems are used in a wide range of applications including, but not limited to, automotive, avionics, robotics and smart grids.<br /> 
 <br /> 
 <b>My research interest</b> AI-enabled autonomous CPS, neurosymbolic AI for safe decision-making, consistency in distributed control systems, and the development of <em>neurosymbolic digital twins</em> for runtime assurance.
