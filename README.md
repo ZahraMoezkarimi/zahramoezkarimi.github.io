@@ -62,7 +62,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 
 
 
-## Events (past and future!)
+## Events 
 
 2025 Apr. &nbsp; &nbsp; **[FSEN 2025](https://conf.researchr.org/home/fsen-2025)**, MDU, Sweden (Member of the organizing committee, Poster chair)
 
