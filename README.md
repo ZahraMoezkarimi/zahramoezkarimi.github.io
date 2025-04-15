@@ -43,7 +43,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <br /> 
 <br /> 
 
-<h4>Privacy Policies</h3>
+<h4>Privacy Policies</h4>
 <b>Definition</b>: The concept of privacy was initially introduced as ‘the right to be left alone’ and is recognized as a fundamental human right by many international norms and regulations. Privacy is further elaborated by Alan Westin as ‘the claim of individuals, groups, or institutions to determine for themselves when, how and to what extent information about them is communicated’; this is currently known as the informational self-determination right and used as a means to limit the abuse of personal data. 
 
 [See: A policy-aware epistemic framework for social networks](https://academic.oup.com/logcom/article/32/6/1234/6564903)
@@ -53,7 +53,7 @@ I am currently working on modeling and formal verification of Cyber-Physical Sys
 <br /> 
 <br />
 
-<h4>Epistemic Logic</h3> 
+<h4>Epistemic Logic</h4> 
 <b>Definition</b>: Epistemic logic provides formal tools to reason about the knowledge and beliefs of agents. It is widely used in multi-agent systems, security, and AI to capture what agents know, infer, or assume in uncertain environments.
 <br />  
 <br /> 
